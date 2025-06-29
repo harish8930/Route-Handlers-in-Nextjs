@@ -1,14 +1,14 @@
 export const comments = [
   {
     id: 1,
-    text: "First Comment",
+    text: "first Comment",
   },
   {
     id: 2,
-    text: "Second Comment",
+    text: "second Comment",
   },
   {
     id: 3,
-    text: "Third Comment",
+    text: "third Comment",
   },
 ];
